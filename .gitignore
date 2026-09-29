@@ -22,3 +22,7 @@ Thumbs.db
 *.db
 *.sqlite
 *.sqlite3
+
+# Local test scripts
+2.Designing/connect/check.py
+2.Designing/connect/test.py
